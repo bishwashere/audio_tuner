@@ -1,0 +1,1000 @@
+  842  2018-08-18 vi /home/bishwas/anaconda3/bin/python/site-packages/keras/engine/training.py
+  843  2018-08-18 vi /home/biswas/anaconda3/bin/python/site-packages/keras/engine/training.py
+  844  2018-08-18 vi /home/biswas/anaconda3/bin/python/site-packages/keras/engine/
+  845  2018-08-18 cd /home/biswas/anaconda3/bin/python/site-packages/keras/engine/
+  846  2018-08-18 cd /home/biswas/anaconda3/bin/python/site-packages
+  847  2018-08-18 cd /home/biswas/anaconda3/bin/python/
+  848  2018-08-18 cd /home/biswas/anaconda3/bin/
+  849  2018-08-18 ls
+  850  2018-08-18 cd python3-config 
+  851  2018-08-18 cat python3-config 
+  852  2018-08-18 ls
+  853  2018-08-18 cd ..
+  854  2018-08-18 ls
+  855  2018-08-18 which keras
+  856  2018-08-18 python
+  857  2018-08-18 find -a keras
+  858  2018-08-18 find -h keras
+  859  2018-08-18 find keras
+  860  2018-08-18 find training
+  861  2018-08-18 find -name keras
+  862  2018-08-18 cd ./lib/python3.5/site-packages/keras
+  863  2018-08-18 ls
+  864  2018-08-18 vi engine/training.py 
+  865  2018-08-18 cd ./lib/python3.5/site-packages/kerashtop
+  866  2018-08-18 htop
+  867  2018-08-18 sudo swapoff -a
+  868  2018-08-18 sudo dd if=/dev/zero of=/swapfile bs=1M count=1024
+  869  2018-08-18 sudo mkswap /swapfile
+  870  2018-08-18 sudo swapon /swapfile
+  871  2018-08-18 free -m
+  872  2018-08-18 which python
+  873  2018-08-18 python
+  874  2018-08-18 clear
+  875  2018-08-18 cd /home/biswas/steven/code/chapter10-dogs_vs_cats
+  876  2018-08-18 ls
+  877  2018-08-18 python train_alexnet.py
+  878  2018-08-18 cat train_alexnet.py
+  879  2018-08-18 python train_alexnet.py
+  880  2018-08-18 sh packages.sh 
+  881  2018-08-18 python train_alexnet.py
+  882  2018-08-18 vi /home/biswas/steven/code/chapter10-dogs_vs_cats/pyimagesearch/preprocessing/simplepreprocessor.py
+  883  2018-08-18 pip install opencv-python
+  884  2018-08-18 python train_alexnet.py
+  885  2018-08-18 pip install opencv-python
+  886  2018-08-18 clear
+  887  2018-08-18 python train_alexnet.py
+  888  2018-08-18 python2.7 train_alexnet.py
+  889  2018-08-18 python train_alexnet.py
+  890  2018-08-18 python
+  891  2018-08-18 python3.5-pip install imutils
+  892  2018-08-18 sudo python3.5 -m pip install imutils
+  893  2018-08-18 python 3.5
+  894  2018-08-18 python
+  895  2018-08-18 python 3.5.2
+  896  2018-08-18 sudo python3.5.2 -m pip install imutils
+  897  2018-08-18 sudo python-m pip install imutils
+  898  2018-08-18 sudo python -m pip install imutils
+  899  2018-08-18 python2.7 train_alexnet.py
+  900  2018-08-18 sudo python -m pip install matplotlib
+  901  2018-08-18 sudo python -m pip install python-opencv
+  902  2018-08-18 sudo python -m pip install opencv-python
+  903  2018-08-18 sudo pip install opencv-python
+  904  2018-08-18 python2.7 train_alexnet.py
+  905  2018-08-18 python train_alexnet.py
+  906  2018-08-18 sudo python -m pip install imutils
+  907  2018-08-18 sudo python2.7 -m pip install matplotlib
+  908  2018-08-18 python train_alexnet.py
+  909  2018-08-18 python2.7 train_alexnet.py
+  910  2018-08-18 python2.7
+  911  2018-08-18 python
+  912  2018-08-18 sudo python -m pip install imutils
+  913  2018-08-18 sudo pip install imutils
+  914  2018-08-18 sudo apt-get install imutils
+  915  2018-08-18 sudo apt-get upgrade imutils
+  916  2018-08-18 which python
+  917  2018-08-18 alias python=/usr/local/bin/python2.7
+  918  2018-08-18 python
+  919  2018-08-18 python train_alexnet.py
+  920  2018-08-18 cd /use/local/bin
+  921  2018-08-18 cd /usr/local/bin
+  922  2018-08-18 ls
+  923  2018-08-18 cd /usr/bin
+  924  2018-08-18 ls
+  925  2018-08-18 alias python=/usr/bin/python2.7
+  926  2018-08-18 python train_alexnet.py
+  927  2018-08-18 cd
+  928  2018-08-18 cd /home/biswas/steven/code/chapter10-dogs_vs_cats
+  929  2018-08-18 clear
+  930  2018-08-18 python
+  931  2018-08-18 python train_alexnet.py
+  932  2018-08-18 pip install matplotlib
+  933  2018-08-18 python pip install matplotlib
+  934  2018-08-18 python -m pip install matplotlib
+  935  2018-08-18 python train_alexnet.py
+  936  2018-08-18 pip install pystan
+  937  2018-08-18 python setup.py install
+  938  2018-08-18 sudo apt-get install libmysqlclient-dev
+  939  2018-08-18 python -m pip install matplotlib
+  940  2018-08-18 sudo apt-get install matplotlib
+  941  2018-08-18 python -m pip install matplotlib
+  942  2018-08-18 python train_alexnet.py
+  943  2018-08-18 python -m pip install matplotlib
+  944  2018-08-18 sudo python -m pip install matplotlib
+  945  2018-08-18 python train_alexnet.py
+  946  2018-08-18 python -mpip install -U matplotlib
+  947  2018-08-18 pip install libpng-devel
+  948  2018-08-18 pip install freetype-devel
+  949  2018-08-18 pip install libpng-dev
+  950  2018-08-18 pip install libjpeg8-dev
+  951  2018-08-18 pip install libfreetype6-dev
+  952  2018-08-18 sudo apt-get build-dep python-matplotlib
+  953  2018-08-18 python train_alexnet.py
+  954  2018-08-18 python
+  955  2018-08-18 python3
+  956  2018-08-18 python3 train_alexnet.py
+  957  2018-08-18 python3 -m pip install imutils
+  958  2018-08-18 python3 train_alexnet.py
+  959  2018-08-18 vi /home/biswas/steven/code/chapter10-dogs_vs_cats/pyimagesearch/preprocessing/imagetoarraypreprocessor.py
+  960  2018-08-18 pip install keras
+  961  2018-08-18 python3 train_alexnet.py
+  962  2018-08-18 pip install tensorflow
+  963  2018-08-18 python3 train_alexnet.py
+  964  2018-08-18 clear
+  965  2018-08-18 ls
+  966  2018-08-18 python3 train_alexnet.py
+  967  2018-08-18 vi train_alexnet.py
+  968  2018-08-18 clear
+  969  2018-08-18 python3 train_alexnet.py
+  970  2018-08-18 clear
+  971  2018-08-18 python3 -m pdb train_alexnet.py
+  972  2018-08-18 python build_dogs_vs_cats.py 
+  973  2018-08-18 pip install sklearn
+  974  2018-08-18 history | grep 'pip'
+  975  2018-08-18 python build_dogs_vs_cats.py 
+  976  2018-08-18 python3 -m pip install sklearn
+  977  2018-08-18 v build_dogs_vs_cats.py 
+  978  2018-08-18 vi build_dogs_vs_cats.py 
+  979  2018-08-18 python3
+  980  2018-08-18 python3 build_dogs_vs_cats.py 
+  981  2018-08-18 pip install -U scikit-learn
+  982  2018-08-18 python3 build_dogs_vs_cats.py 
+  983  2018-08-18 python3 -m pdb build_dogs_vs_cats.py 
+  984  2018-08-18 v build_dogs_vs_cats.py 
+  985  2018-08-18 vi build_dogs_vs_cats.py 
+  986  2018-08-18 python3 -m pdb build_dogs_vs_cats.py 
+  987  2018-08-18 python3 train_alexnet.py 
+  988  2018-08-18 python3 train_alexnet.py
+  989  2018-08-18 vi build_dogs_vs_cats.py
+  990  2018-08-18 python3 build_dogs_vs_cats.py
+  991  2018-08-18 python3 train_alexnet.py
+  992  2018-08-18 python3 -m pdb train_alexnet.py
+  993  2018-08-18 free -m
+  994  2018-08-18 htop
+  995  2018-08-18 ls
+  996  2018-08-18 cd script_files/
+  997  2018-08-18 ls
+  998  2018-08-18 cat redo_file 
+  999  2018-08-18 ls -l
+ 1000  2018-08-18 history -w
+ 1001  2018-08-18 ls
+ 1002  2018-08-18 cd workspace/
+ 1003  2018-08-18 ls
+ 1004  2018-08-18 git clone git@github.com:bishwasmishra/autowork.git
+ 1005  2018-08-18 cd autowork/
+ 1006  2018-08-18 ls
+ 1007  2018-08-18 git status
+ 1008  2018-08-18 git remote -v
+ 1009  2018-08-18 clear
+ 1010  2018-08-18 vi mysql-login
+ 1011  2018-08-18 mkdir script_files
+ 1012  2018-08-18 cd script_files/
+ 1013  2018-08-18 vi mysql_login_resources
+ 1014  2018-08-18 cat mysql_login_resources
+ 1015  2018-08-18 jq -R -s -c 'split("\n")' < mysql_login_resources
+ 1016  2018-08-18 cat mysql_login_resources  | jq  --raw-input .  | jq --slurp .
+ 1017  2018-08-18 jq
+ 1018  2018-08-18 sudo apt-get install jq
+ 1019  2018-08-18 cat mysql_login_resources  | jq  --raw-input .  | jq --slurp .
+ 1020  2018-08-18 jq -R -s -c 'split("\n")' < mysql_login_resources
+ 1021  2018-08-18 jq -R -s -c < mysql_login_resources
+ 1022  2018-08-18 jq '.Body'
+ 1023  2018-08-18 cat mysql_login_resources  | jq  --raw-input .  | jq --slurp .
+ 1024  2018-08-18 jq
+ 1025  2018-08-18 jq mysql_login_resources
+ 1026  2018-08-18 cat mysql_login_resources  | jq  --raw-input .
+ 1027  2018-08-18 cat mysql_login_resources  | jq  --raw-input
+ 1028  2018-08-18 cat mysql_login_resources  | jq  --raw-input .
+ 1029  2018-08-18 cat mysql_login_resources  | jq  --stream
+ 1030  2018-08-18 cat mysql_login_resources  | jq  --stream .
+ 1031  2018-08-18 jq mysql_login_resources mysql_--stream
+ 1032  2018-08-18 ls
+ 1033  2018-08-18 cat mysql_login_resources
+ 1034  2018-08-18 jq --version
+ 1035  2018-08-18 js --seq
+ 1036  2018-08-18 js --stream
+ 1037  2018-08-18 js --stream mysql_login_resources 
+ 1038  2018-08-18 js mysql_login_resources --stream
+ 1039  2018-08-18 jq --version
+ 1040  2018-08-18 js --stream mysql_login_resources 
+ 1041  2018-08-18 js --stream mysql_login_resources cd ..
+ 1042  2018-08-18 ls
+ 1043  2018-08-18 cd ..
+ 1044  2018-08-18 ls
+ 1045  2018-08-18 git diff
+ 1046  2018-08-18 git status
+ 1047  2018-08-18 vi redo
+ 1048  2018-08-18 ls
+ 1049  2018-08-18 chmod 777 redo 
+ 1050  2018-08-18 ls
+ 1051  2018-08-18 redo
+ 1052  2018-08-18 sh redo
+ 1053  2018-08-18 vi redo
+ 1054  2018-08-18 sh redo 2
+ 1055  2018-08-18 vi redo
+ 1056  2018-08-18 sh redo 2
+ 1057  2018-08-18 vi redo
+ 1058  2018-08-18 sh redo 2
+ 1059  2018-08-18 vi redo
+ 1060  2018-08-18 sh redo 2
+ 1061  2018-08-18 vi redo
+ 1062  2018-08-18 sh redo 2
+ 1063  2018-08-18 vi redo
+ 1064  2018-08-18 sh redo 5
+ 1065  2018-08-18 ls
+ 1066  2018-08-18 pwd
+ 1067  2018-08-18 vi redo
+ 1068  2018-08-18 ls
+ 1069  2018-08-18 sh redo 5
+ 1070  2018-08-18 vi redo
+ 1071  2018-08-18 sh redo 5
+ 1072  2018-08-18 vi redo
+ 1073  2018-08-18 sh redo 5
+ 1074  2018-08-18 vi redo
+ 1075  2018-08-18 sh redo 5
+ 1076  2018-08-18 vi redo
+ 1077  2018-08-18 ls
+ 1078  2018-08-18 ls latest_full_history
+ 1079  2018-08-18 ls redo_file
+ 1080  2018-08-18 history -a
+ 1081  2018-08-18 history
+ 1082  2018-08-18 history -w my_file
+ 1083  2018-08-18 cat my_file 
+ 1084  2018-08-18 vi redo
+ 1085  2018-08-18 ls -l
+ 1086  2018-08-18 vi redo
+ 1087  2018-08-18 sh redo 5
+ 1088  2018-08-18 ls
+ 1089  2018-08-18 cat latest_full_history 
+ 1090  2018-08-18 cat redo
+ 1091  2018-08-18 cat redo_file 
+ 1092  2018-08-18 ls
+ 1093  2018-08-18 vi redo_file 
+ 1094  2018-08-18 vi redo
+ 1095  2018-08-18 ls
+ 1096  2018-08-18 git status
+ 1097  2018-08-18 git add redo script_files/
+ 1098  2018-08-18 git status
+ 1099  2018-08-18 git branch
+ 1100  2018-08-18 git commit -m 'first push'; git push origin master
+ 1101  2018-08-18 git config --global user.email "b.bishwas@gmail.com"
+ 1102  2018-08-18 git remote -v
+ 1103  2018-08-18 git status
+ 1104  2018-08-18 ls
+ 1105  2018-08-18 git commit -m 'first push'; git push origin master
+ 1106  2018-08-18 git config --global user.email
+ 1107  2018-08-18 git config user.email
+ 1108  2018-08-18 git config --global user.name
+ 1109  2018-08-18 git config --global user.name "bishwasmishra"
+ 1110  2018-08-18 git commit -m 'first push'; git push origin master
+ 1111  2018-08-18 git remote
+ 1112  2018-08-18 git remote -v
+ 1113  2018-08-18 cd ..
+ 1114  2018-08-18 git remote
+ 1115  2018-08-18 cd autowork/
+ 1116  2018-08-18 ls
+ 1117  2018-08-18 git remote -v
+ 1118  2018-08-18 git status
+ 1119  2018-08-18 xclip -sel clip < ~/.ssh/id_rsa.pub
+ 1120  2018-08-18 vi ~/.ssh/id_rsa.pub
+ 1121  2018-08-18 ssh-keygen -t rsa -b 4096 -C "b.bishwas@ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDTnT/rylW0O9Sz/YXZPSnclu9JiieFd3D147YI8SLD0BL4xLoiBPldzPKhJznmOZN6mji/tzzPJq8u2yT6CBxmxVTbO4Wx5Ga0/CeSeZdDClbwbHsYYsnzEqSJiO6cJarEuAkttuk9K32qhKlRYRk9rwQ/O09XyMKAMRQ2sntAOWOL0aO7xfgDjX11tPzlNBHoTECG+T2uVf/w0qaF2tO3J7w+tuYindRY7nV3DIrk3hCN84OA74MAh62k4DS2rRLxWLCxkXVnTnJNU7iriC12TWFdCGfL/Gd/D3JHRwicMRaRbB4T8NQkANttXAEX/md+dJRwd6L+C6sesBDeWzlWCC8iNqAp1oMivyHBDOTx+7eB0q7pxjnsghENpCgvvg17bO3XGnasoDBqMnWs3ilpsEoD5j8VO5ZCOq3kvf9Fy4j8FOQHZi8xkfHAg1iKD4q2yZq0U6hHEM32HU7Nl8O6B8nOxnueQoC9F+Zlp1ll2EHpZdyZpHZLQhfh8gnlyWkYHDfQTWqmjhPN28MaPcD6W6BEYmvDqyTXvHO9meRFxA6tZ++veYtFS78Ie6xTZujyLUkRlAsy/8X+DxMsRdgpTJQMDBu7TtiUkX7dXk+198TvDGKla/gm+y7POH/G64GS5fsXFrDHFp5aT8Hjpf9H5aMUVHa/K1GAMsiBrpO4fQ== bishwashere@gmail.com"
+ 1122  2018-08-18 ssh-keygen -t rsa -b 4096 -C "b.bishwas@gmail.com"
+ 1123  2018-08-18 xclip -sel clip < ~/.ssh/id_rsa.pub
+ 1124  2018-08-18 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCTIRNB5LhTTizFlkly/l4B8sM0Hu94+JMAuBFBpXqugz/hgsWEdBMb52yMss9qio7HxYeBvs4lyjngjsrb9VkqEQSrVQ9USQgWHY73du0/9ijO+WiOpyBkn/WMDGgThuJYYGPExG8KRSQjO+vsG+TowkRBEFGWqJp40lFXeIhaMN6FbccVocAavr+VVJS6/My3xWS9VwKnFt8jGMPn4wdHyvApiOW9TQD8y1+e0cy1gSPeFzZCRcxiDkUWNwwgcrqrKQb0n6yACxTA9BGXee2nokj9/Ln6VMeXeapLJxrL5TNpZwVZIlyfxDS4SDGtt6Hj56o12DNBosQoC6bWwu+zB+Sb5T8hRymNpqbCrjJ9WzIYJYeW5vTVNuMf6N05JCK/GV0Y4P9fM4/tmjTYWhX7doKGXt2O4uXGJGdU2MJgDlF7UMbZcGl9IH+aBF6ElMp/uM+hgwxL4/j3vMIKAkDDVU9NdbNP/RVcOQG7sKNy/KTaVbxbHmHs9c2OBag91aqx/F4P93SY4GGN/7Z6yzYJKYAHqwXhUC/Q/k7cKcU5ePQkeysCCmj7ImXU/qjGqCZUTYwstBJFCDAuQVuxvzp+tRNom4/Yn2NM/jdFGpcMDdC8Gp/4c4ZGRAMgJLc6Ds6Dpi/etP/oaAfhdgbWQl5GED8jm17npmpjZ0M07ME3fQ== b.bishwas@gmail.com
+ 1125  2018-08-18 git status
+ 1126  2018-08-18 git remote -v
+ 1127  2018-08-18 git commit -m 'first push'; git push origin master
+ 1128  2018-08-18 cd  ~/.ssh
+ 1129  2018-08-18 ls
+ 1130  2018-08-18 vi id_rsa.pub
+ 1131  2018-08-18 vi config 
+ 1132  2018-08-18 cat id_rsa
+ 1133  2018-08-18 v id_rsa
+ 1134  2018-08-18 vi id_rsa
+ 1135  2018-08-18 cd
+ 1136  2018-08-18 cd workspace/autowork/
+ 1137  2018-08-18 git commit -m 'first push'; git push origin master
+ 1138  2018-08-18 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCTIRNB5LhTTizFlkly/l4B8sM0Hu94+JMAuBFBpXqugz/hgsWEdBMb52yMss9qio7HxYeBvs4lyjngjsrb9VkqEQSrVQ9USQgWHY73du0/9ijO+WiOpyBkn/WMDGgThuJYYGPExG8KRSQjO+vsG+TowkRBEFGWqJp40lFXeIhaMN6FbccVocAavr+VVJS6/My3xWS9VwKnFt8jGMPn4wdHyvApiOW9TQD8y1+e0cy1gSPeFzZCRcxiDkUWNwwgcrqrKQb0n6yACxTA9BGXee2nokj9/Ln6VMeXeapLJxrL5TNpZwVZIlyfxDS4SDGtt6Hj56o12DNBosQoC6bWwu+zB+Sb5T8hRymNpqbCrjJ9WzIYJYeW5vTVNuMf6N05JCK/GV0Y4P9fM4/tmjTYWhX7doKGXt2O4uXGJGdU2MJgDlF7UMbZcGl9IH+aBF6ElMp/uM+hgwxL4/j3vMIKAkDDVU9NdbNP/RVcOQG7sKNy/KTaVbxbHmHs9c2OBag91aqx/F4P93SY4GGN/7Z6yzYJKYAHqwXhUC/Q/k7cKcU5ePQkeysCCmj7ImXU/qjGqCZUTYwstBJFCDAuQVuxvzp+tRNom4/Yn2NM/jdFGpcMDdC8Gp/4c4ZGRAMgJLc6Ds6Dpi/etP/oaAfhdgbWQl5GED8jm17npmpjZ0M07ME3fQ== b.bishwas@gmail.com
+ 1139  2018-08-18 git status
+ 1140  2018-08-18 git remote
+ 1141  2018-08-18 git remote -v
+ 1142  2018-08-18 git commit -m 'first push'; git push origin master
+ 1143  2018-08-18 git commit -m 'first push'; git push
+ 1144  2018-08-18 git config --global push.default matching
+ 1145  2018-08-18 git config --global push.default simple
+ 1146  2018-08-18 git commit -m 'first push'; git push
+ 1147  2018-08-18 ssh -vT git@github.com
+ 1148  2018-08-18 eval "$(ssh-agent -s)"
+ 1149  2018-08-18 ssh-add
+ 1150  2018-08-18 git commit -m 'first push'; git push
+ 1151  2018-08-18 ls
+ 1152  2018-08-18 cd script_files/
+ 1153  2018-08-18 ls
+ 1154  2018-08-18 cat redo_file 
+ 1155  2018-08-18 ls -l
+ 1156  2018-08-18 history -w
+ 1157  2018-08-18 history --help
+ 1158  2018-08-18 man history
+ 1159  2018-08-18 ls
+ 1160  2018-08-18 cd ~/.ssh
+ 1161  2018-08-18 ls
+ 1162  2018-08-18 cat known_hosts
+ 1163  2018-08-18 cat config
+ 1164  2018-08-18 hostname
+ 1165  2018-08-18 cd workspace/
+ 1166  2018-08-18 ls
+ 1167  2018-08-18 cd autowork/
+ 1168  2018-08-18 git remote -v
+ 1169  2018-08-18 git diff
+ 1170  2018-08-18 git status
+ 1171  2018-08-18 reset
+ 1172  2018-08-18 git status
+ 1173  2018-08-18 git add redo mysql-login script_files/backup script_files/lookup script_files/mysql-login script_files/remove_changes script_files/restarte script_files/taile script_files/test
+ 1174  2018-08-18 git status
+ 1175  2018-08-18 git rm script_files/mysql-login script_files/restarte
+ 1176  2018-08-18 git status
+ 1177  2018-08-18 git commit -m 'new scripts'; git push origin master
+ 1178  2018-08-18 git diff
+ 1179  2018-08-18 git status
+ 1180  2018-08-18 git rm redo script_files/backup; git commit -m 'changes'; git push origin master
+ 1181  2018-08-18 xzcat ~/Downloads/ubuntu-core-16-pi3.img.xz | sudo dd of=/dev/sdb bs=32M
+ 1182  2018-08-18 sync
+ 1183  2018-08-18 cat /var/lib/misc/dnsmasq.leases
+ 1184  2018-08-18 ifconfig
+ 1185  2018-08-18 ssh pi@192.168.43.236
+ 1186  2018-08-18 touch ssh /media/biswas/system-boot/
+ 1187  2018-08-18 cd /media/biswas/system-boot
+ 1188  2018-08-18 touch ssh
+ 1189  2018-08-18 cd
+ 1190  2018-08-18 ssh pi@192.168.43.236
+ 1191  2018-08-18 cat /var/lib/misc/dnsmasq.leases
+ 1192  2018-08-18 ssh pi@192.168.43.236
+ 1193  2018-08-18 ssh root@192.168.43.236
+ 1194  2018-08-18 cat /var/lib/misc/dnsmasq.leases
+ 1195  2018-08-18 ssh root@192.168.43.236
+ 1196  2018-08-18 ssh pi@192.168.43.236
+ 1197  2018-08-18 xzcat ~/Downloads/ubuntu-core-16-pi3.img.xz | sudo dd of=/dev/sdb bs=32M
+ 1198  2018-08-18 sync
+ 1199  2018-08-18 xzcat ~/Downloads/ubuntu-core-16-pi3.img.xz | sudo dd of=/dev/sdb1 bs=32M
+ 1200  2018-08-18 sync
+ 1201  2018-08-18 cd /media/biswas/system-boot
+ 1202  2018-08-18 touch ssh
+ 1203  2018-08-18 sudo touch ssh
+ 1204  2018-08-18 rm ssh
+ 1205  2018-08-18 cd
+ 1206  2018-08-18 cat /var/lib/misc/dnsmasq.leases
+ 1207  2018-08-18 xzcat ~/Downloads/ubuntu-core-16-pi3.img.xz | sudo dd of=/dev/sdb bs=32M
+ 1208  2018-08-18 sync
+ 1209  2018-08-18 cat /var/lib/misc/dnsmasq.leases
+ 1210  2018-08-18 ssh pi@192.168.43.236
+ 1211  2018-08-18 ssh pi@192.168.43.255
+ 1212  2018-08-18 ssh pi@192.168.43.236
+ 1213  2018-08-18 cat /var/lib/misc/dnsmasq.leases
+ 1214  2018-08-18 ssh pi@192.168.43.236
+ 1215  2018-08-18 service ssh status
+ 1216  2018-08-18 service ssh start
+ 1217  2018-08-18 ps -aux | grep ssh
+ 1218  2018-08-18 sudo su
+ 1219  2018-08-18 cat /var/lib/misc/dnsmasq.leases
+ 1220  2018-08-18 sudo su
+ 1221  2018-08-18 cat /var/lib/misc/dnsmasq.leases
+ 1222  2018-08-18 ps -aux | grep ssh
+ 1223  2018-08-18 ssh pi@192.168.43.236
+ 1224  2018-08-18 xzcat ~/Downloads/ubuntu-core-16-pi3.img.xz | sudo dd of=/dev/sdb bs=32M
+ 1225  2018-08-18 xzcat ~/Downloads/ubuntu-core-16-pi3.img.xz | sudo dd of=/dev/sdb bs=64M
+ 1226  2018-08-18 ping raspberrypi.local
+ 1227  2018-08-18 ssh pi@192.168.43.236
+ 1228  2018-08-18 ssh pi@192.168.43.235
+ 1229  2018-08-18 ssh pi@192.168.43.237
+ 1230  2018-08-18 ssh pi@192.168.43.236
+ 1231  2018-08-18 ssh rpi@192.168.43.236
+ 1232  2018-08-18 cat /var/lib/misc/dnsmasq.leases
+ 1233  2018-08-18 ssh rpi@10.42.0.71
+ 1234  2018-08-18 ssh rp@10.42.0.71
+ 1235  2018-08-18 ssh rpi@10.42.0.71
+ 1236  2018-08-18 cat /var/lib/misc/dnsmasq.leases
+ 1237  2018-08-18 ssh rp@10.42.0.71
+ 1238  2018-08-18 ssh pi@10.42.0.71
+ 1239  2018-08-18 ifconfig
+ 1240  2018-08-18 ssh pi@192.168.43.236
+ 1241  2018-08-18 grep sshd /var/log/syslog
+ 1242  2018-08-18 ifconfig
+ 1243  2018-08-18 reset
+ 1244  2018-08-18 ifconfig
+ 1245  2018-08-18 reset
+ 1246  2018-08-18 ifconfig
+ 1247  2018-08-18 reset
+ 1248  2018-08-18 ifconfig
+ 1249  2018-08-18 python
+ 1250  2018-08-18 sudo add-apt-repository ppa:notepadqq-team/notepadqq
+ 1251  2018-08-18 sudo apt-get update
+ 1252  2018-08-18 sudo apt-get install notepadqq
+ 1253  2018-08-18 ssh root@139.59.33.46
+ 1254  2018-08-18 ssh-keygen -t rsa -b 4096 -C bishwashere@gmal.com
+ 1255  2018-08-18 eval "$(ssh-agent -s)"
+ 1256  2018-08-18 ssh-add ~/.ssh/id_rsa_do
+ 1257  2018-08-18 cd ~/.ssh/
+ 1258  2018-08-18 ls
+ 1259  2018-08-18 ssh-add ~/.ssh/id_rsa_do.pub
+ 1260  2018-08-18 cd
+ 1261  2018-08-18 ls
+ 1262  2018-08-18 cat id_rsa
+ 1263  2018-08-18 ssh-add id_rsa_do
+ 1264  2018-08-18 xclip -sel clip < id_rsa_do.pub
+ 1265  2018-08-18 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDO9DZiCAY0Pamx7fbg3fmm4v3qc8KZwu5jk3/k2XHEgQ78PmxyiifG2r8L/vBaafMWgOG6Zs5/dNu5PB/qq6myKYTR3dEa3ZegEHoJ12xgvVFNNJbSe07M5iuZPFO4F8DF+ct4TkPN6ocTPW9QCmU5cL0wyRb9g6IFHD3KjbMJUygoEfnj3UZSoQ6AcHB71WtdpGoDn2sD5IXC9Maa1i61rdAFhWzjgWG2mSM7EuOlR4wiqxKY/SKitBTyldA0NptIL0BH31HYOyNZ+mqK5JMb4vDh3VAbIgDfqEbLxmCZDXM9SV322VyZlHz6epC2lZaMOd6SfaN2drer2infYJFOpBH1Iofd0gZCJ9QTjlVS6IjzNPe1Uhe5/s8xcMFLBcMv2LOWgSijmSSISdEf6uUp7/MjN+2YgYU5rbJRNHW+fvMVq8h9tyXmwyIKSHvL1tqPbWg7P9jWYbBlMBiLl5+2vo2w0GU+ceP3pWnoxYZz9fVxQVYvlCBDLHRqXgoz6q8d3VO8s/cmlekszeAtRQDnfoUUlOvjADZce8ZjThzQmHOf/NgWSz5p3GA7oQj+JM46FsFtRjTZJ4iPQpSJBWn9dLb7bkUctvihtTEDdt2gYrgiqyxXyvwvxRZ/XTtMKkDBGfoXm2FFh9yDzIq5iB8q6KTIpV9leGm+QlI2TrR+rQ== bishwashere@gmal.com
+ 1266  2018-08-18 ssh root@139.59.33.46
+ 1267  2018-08-18 ssh -i id_rsa_do root@139.59.33.46
+ 1268  2018-08-18 ssh root@139.59.33.46
+ 1269  2018-08-18 ssh
+ 1270  2018-08-18 reset
+ 1271  2018-08-18 ssh -i id_rsa_do root@139.59.33.46
+ 1272  2018-08-18 ssh -i id_rsa_do.pub root@139.59.33.46
+ 1273  2018-08-18 ssh root@139.59.33.46
+ 1274  2018-08-18 ssh -i id_rsa_do.pub root@139.59.33.46
+ 1275  2018-08-18 cd ..
+ 1276  2018-08-18 history | grep tar
+ 1277  2018-08-18 history -a
+ 1278  2018-08-18 history | grep tar
+ 1279  2018-08-18 tar xvzf node-v4.1.2-linux-x64.tar.gz 
+ 1280  2018-08-18 htop
+ 1281  2018-08-18 cd node-v
+ 1282  2018-08-18 ls
+ 1283  2018-08-18 cd node-v8.11.4/
+ 1284  2018-08-18 ls
+ 1285  2018-08-18 ./node
+ 1286  2018-08-18 ls
+ 1287  2018-08-18 pwd
+ 1288  2018-08-18 ls
+ 1289  2018-08-18 cd workspace/
+ 1290  2018-08-18 ls
+ 1291  2018-08-18 cd codaxtr-extractor/
+ 1292  2018-08-18 git branch
+ 1293  2018-08-18 git checkout master
+ 1294  2018-08-18 git diff
+ 1295  2018-08-18 git stash
+ 1296  2018-08-18 git checkout master
+ 1297  2018-08-18 git pull
+ 1298  2018-08-18 git remote -v
+ 1299  2018-08-18 cd ..
+ 1300  2018-08-18 ls
+ 1301  2018-08-18 git clone git@github.com:bishwasmishra/vue
+ 1302  2018-08-18 ls
+ 1303  2018-08-18 cd vue
+ 1304  2018-08-18 ls
+ 1305  2018-08-18 cd ..
+ 1306  2018-08-18 cd audio_tuner/
+ 1307  2018-08-18 ls
+ 1308  2018-08-18 git remote
+ 1309  2018-08-18 git remote add git@gihub.com:bishwasmishra
+ 1310  2018-08-18 git remote add origin git@gihub.com:bishwasmishra
+ 1311  2018-08-18 git remote
+ 1312  2018-08-18 git remote -v
+ 1313  2018-08-18 git diff
+ 1314  2018-08-18 ls
+ 1315  2018-08-18 git add first_vue.html;
+ 1316  2018-08-18 git branch
+ 1317  2018-08-18 git checkout -b vue
+ 1318  2018-08-18 git add first_vue.html
+ 1319  2018-08-18 git commit -m 'first vue app'; git push origin cue
+ 1320  2018-08-18 git commit -m 'first vue app'; git push origin vue
+ 1321  2018-08-18 ls
+ 1322  2018-08-18 git status
+ 1323  2018-08-18 git add ./audio_tuner
+ 1324  2018-08-18 cd ..
+ 1325  2018-08-18 git diff
+ 1326  2018-08-18 cd audio_tuner/
+ 1327  2018-08-18 ls
+ 1328  2018-08-18 cd ..
+ 1329  2018-08-18 rm irf audio_tuner/
+ 1330  2018-08-18 rm -rf audio_tuner/
+ 1331  2018-08-18 git clone git@github.com:bishwasmishra/audio_tuner.git
+ 1332  2018-08-18 cd audio_tuner/
+ 1333  2018-08-18 ls
+ 1334  2018-08-18 git status
+ 1335  2018-08-18 git branch
+ 1336  2018-08-18 git add first_vue.html; git commit -m 'first vue app'; git push origin
+ 1337  2018-08-18 vue create audio_tuner
+ 1338  2018-08-18 npm
+ 1339  2018-08-18 npm install -g @vue/cli
+ 1340  2018-08-18 vue create audio_tuner
+ 1341  2018-08-18 sudo npm install n -g
+ 1342  2018-08-18 npm install n -g
+ 1343  2018-08-18 n 0.12.2
+ 1344  2018-08-18 sudo n 0.12.2
+ 1345  2018-08-18 sudo su
+ 1346  2018-08-18 vue create audio_tuner
+ 1347  2018-08-18 sudo su
+ 1348  2018-08-18 vue create audio_tuner
+ 1349  2018-08-18 sudo su
+ 1350  2018-08-18 npm install -g @vue/cli
+ 1351  2018-08-18 vue create audio_tuner
+ 1352  2018-08-18 sudo npm install n -g
+ 1353  2018-08-18 sudo n 0.12.2
+ 1354  2018-08-18 sudo n stable
+ 1355  2018-08-18 sudo n latest
+ 1356  2018-08-18 vue create audio_tuner
+ 1357  2018-08-18 npm install -g n
+ 1358  2018-08-18 n 0.12.2
+ 1359  2018-08-18 sudo n 0.12.2
+ 1360  2018-08-18 sudo n stable
+ 1361  2018-08-18 reset
+ 1362  2018-08-18 npm install nodejs-latest
+ 1363  2018-08-18 vue create audio_tuner
+ 1364  2018-08-18 node
+ 1365  2018-08-18 sudo npm install nodejs-latest
+ 1366  2018-08-18 cd ..
+ 1367  2018-08-18 sudo npm install nodejs-latest
+ 1368  2018-08-18 npm install
+ 1369  2018-08-18 sudo npm install
+ 1370  2018-08-18 sudo npm install nodejs-latest
+ 1371  2018-08-18 npm cache clean
+ 1372  2018-08-18 reset
+ 1373  2018-08-18 sudo npm cache clean
+ 1374  2018-08-18 reset
+ 1375  2018-08-18 sudo npm install -g npm
+ 1376  2018-08-18 npm install
+ 1377  2018-08-18 npm init
+ 1378  2018-08-18 cd audio_tuner/
+ 1379  2018-08-18 npm init
+ 1380  2018-08-18 ls
+ 1381  2018-08-18 npm install nodejs-latest
+ 1382  2018-08-18 vue create audio_tuner
+ 1383  2018-08-18 ￼
+ 1384  2018-08-18 npm install nodejs-latest
+ 1385  2018-08-18 sudo npm install nodejs-latest
+ 1386  2018-08-18 vue create audio_tuner
+ 1387  2018-08-18 ls
+ 1388  2018-08-18 cat package
+ 1389  2018-08-18 cat package.json 
+ 1390  2018-08-18 ls
+ 1391  2018-08-18 cd node_modules/
+ 1392  2018-08-18 ls
+ 1393  2018-08-18 cd nodejs-latest/
+ 1394  2018-08-18 ls
+ 1395  2018-08-18 cd ../..
+ 1396  2018-08-18 ls
+ 1397  2018-08-18 npm install npm@latest -g
+ 1398  2018-08-18 vue create audio_tuner
+ 1399  2018-08-18 vue create example
+ 1400  2018-08-18 sudo npm install n -g
+ 1401  2018-08-18 sudo n 0.12.2
+ 1402  2018-08-18 sudo n 2.1.12
+ 1403  2018-08-18 sudo n 8.9
+ 1404  2018-08-18 ls
+ 1405  2018-08-18 rm -rf node_modules 
+ 1406  2018-08-18 sudo rm -rf node_modules 
+ 1407  2018-08-18 rm package.json
+ 1408  2018-08-18 rm package-lock.json 
+ 1409  2018-08-18 ls
+ 1410  2018-08-18 git diff
+ 1411  2018-08-18 vue create audio_tuner
+ 1412  2018-08-18 npm install check-node-version
+ 1413  2018-08-18 sudo npm install check-node-version
+ 1414  2018-08-18 check-node-version 
+ 1415  2018-08-18 sudo apt-get remove nodejs
+ 1416  2018-08-18 which node
+ 1417  2018-08-18 which nodejs
+ 1418  2018-08-18 which npm
+ 1419  2018-08-18 sudo apt-get remove npm
+ 1420  2018-08-18 cd /etc/apt/sources.list.d
+ 1421  2018-08-18 ls
+ 1422  2018-08-18 rm *.list
+ 1423  2018-08-18 y
+ 1424  2018-08-18 sudo rm *.list
+ 1425  2018-08-18 ls
+ 1426  2018-08-18 cd
+ 1427  2018-08-18 sudo apt-get update
+ 1428  2018-08-18 sudo apt-get upgrade
+ 1429  2018-08-18 which node
+ 1430  2018-08-18 node -v
+ 1431  2018-08-18 node
+ 1432  2018-08-18 cd workspace/
+ 1433  2018-08-18 ls
+ 1434  2018-08-18 cd audio_tuner/
+ 1435  2018-08-18 history | grep vuew
+ 1436  2018-08-18 history | grep vue
+ 1437  2018-08-18 vue create audio_tuner
+ 1438  2018-08-18 npm i -g npm-upgrade
+ 1439  2018-08-18 npm-upgrade check [filter]
+ 1440  2018-08-18 reset
+ 1441  2018-08-18 vue create audio_tuner
+ 1442  2018-08-18 which node
+ 1443  2018-08-18 cd /home/biswas/.nvm/versions/node/v
+ 1444  2018-08-18 cd /home/biswas/.nvm/versions/node/
+ 1445  2018-08-18 ls
+ 1446  2018-08-18 cd ..
+ 1447  2018-08-18 ls
+ 1448  2018-08-18 cd ..
+ 1449  2018-08-18 ls
+ 1450  2018-08-18 npm install -g n
+ 1451  2018-08-18 npm cache clean -f
+ 1452  2018-08-18 sudo n stable
+ 1453  2018-08-18 ls
+ 1454  2018-08-18 cd versions/
+ 1455  2018-08-18 ls
+ 1456  2018-08-18 cd node/
+ 1457  2018-08-18 ls
+ 1458  2018-08-18 cd v7.2.1/
+ 1459  2018-08-18 ls
+ 1460  2018-08-18 cd ../..
+ 1461  2018-08-18 cd ..
+ 1462  2018-08-18 ls
+ 1463  2018-08-18 npm update -g
+ 1464  2018-08-18 node -v
+ 1465  2018-08-18 npm -v
+ 1466  2018-08-18 cordova -v
+ 1467  2018-08-18 cd
+ 1468  2018-08-18 cd packages/
+ 1469  2018-08-18 ls
+ 1470  2018-08-18 cd node-v8.11.4-linux-x64/
+ 1471  2018-08-18 ls
+ 1472  2018-08-18 cat read
+ 1473  2018-08-18 cat README.md 
+ 1474  2018-08-18 la
+ 1475  2018-08-18 ls
+ 1476  2018-08-18 ls ./
+ 1477  2018-08-18 ls ../
+ 1478  2018-08-18 ./configure
+ 1479  2018-08-18 ls
+ 1480  2018-08-18 make
+ 1481  2018-08-18 cd bin/
+ 1482  2018-08-18 ls
+ 1483  2018-08-18 cd node
+ 1484  2018-08-18 ls
+ 1485  2018-08-18 cd node
+ 1486  2018-08-18 ls
+ 1487  2018-08-18 cd ..
+ 1488  2018-08-18 node --version
+ 1489  2018-08-18 npm --version
+ 1490  2018-08-18 cd ..
+ 1491  2018-08-18 ls
+ 1492  2018-08-18 ls /usr/local
+ 1493  2018-08-18 ls /usr/local/bin/node 
+ 1494  2018-08-18 ls /usr/local/bin/
+ 1495  2018-08-18 tar node-v8.11.4-linux-x64.tar.xz --directory /usr/local/ --strip-components 1
+ 1496  2018-08-18 tar node-v8.11.4-linux-x64.tar.xz --directory /usr/local --strip-components 1
+ 1497  2018-08-18 tar -xf node-v8.11.4-linux-x64.tar.xz --directory /usr/local --strip-components 1
+ 1498  2018-08-18 sudo tar -xf node-v8.11.4-linux-x64.tar.xz --directory /usr/local --strip-components 1
+ 1499  2018-08-18 node -v
+ 1500  2018-08-18 npm -v
+ 1501  2018-08-18 cd /usr/bin
+ 1502  2018-08-18 ls
+ 1503  2018-08-18 cd bin
+ 1504  2018-08-18 ll
+ 1505  2018-08-18 echo $PATH
+ 1506  2018-08-18 cd ./bin
+ 1507  2018-08-18 ls
+ 1508  2018-08-18 reset
+ 1509  2018-08-18 cd
+ 1510  2018-08-18 cd packages/
+ 1511  2018-08-18 ls
+ 1512  2018-08-18 cd node-v8.11.4-linux-x64
+ 1513  2018-08-18 ls
+ 1514  2018-08-18 ls -l /usr/local/bin/node
+ 1515  2018-08-18 ls -l /usr/local/bin/npm
+ 1516  2018-08-18 ./configure
+ 1517  2018-08-18 cd ..
+ 1518  2018-08-18 ls
+ 1519  2018-08-18 rm -rf node-v8.11.4-linux-x64
+ 1520  2018-08-18 ls
+ 1521  2018-08-18 tar xvzf node-v8.11.4.tar.gz 
+ 1522  2018-08-18 ls
+ 1523  2018-08-18 cd node-v8.11.4/
+ 1524  2018-08-18 ./configure
+ 1525  2018-08-18 make
+ 1526  2018-08-18 make install
+ 1527  2018-08-18 sudo make install
+ 1528  2018-08-18 which node
+ 1529  2018-08-18 cd home/biswas/.nvm/versions/node/
+ 1530  2018-08-18 ls
+ 1531  2018-08-18 cd home/biswas/.nvm
+ 1532  2018-08-18 cd /home/biswas/.nvm/versions/node/
+ 1533  2018-08-18 ls
+ 1534  2018-08-18 cd ~/packages/node-v8.11.4
+ 1535  2018-08-18 ls
+ 1536  2018-08-18 ./node
+ 1537  2018-08-18 vi ~/.bashrc
+ 1538  2018-08-18 which node
+ 1539  2018-08-18 vi ~/.bashrc
+ 1540  2018-08-18 ls
+ 1541  2018-08-18 node
+ 1542  2018-08-18 ./node
+ 1543  2018-08-18 cd /usr/local
+ 1544  2018-08-18 ls
+ 1545  2018-08-18 cd bin/
+ 1546  2018-08-18 ls
+ 1547  2018-08-18 node
+ 1548  2018-08-18 ./node
+ 1549  2018-08-18 ll
+ 1550  2018-08-18 cat node 
+ 1551  2018-08-18 ll
+ 1552  2018-08-18 cd
+ 1553  2018-08-18 ./node
+ 1554  2018-08-18 cd /usr/share
+ 1555  2018-08-18 ls
+ 1556  2018-08-18 node
+ 1557  2018-08-18 ./node
+ 1558  2018-08-18 ll
+ 1559  2018-08-18 cd node
+ 1560  2018-08-18 head node
+ 1561  2018-08-18 cd /usr/local
+ 1562  2018-08-18 ls
+ 1563  2018-08-18 cd bin/
+ 1564  2018-08-18 ls
+ 1565  2018-08-18 rm node
+ 1566  2018-08-18 head node
+ 1567  2018-08-18 ls
+ 1568  2018-08-18 cd ..
+ 1569  2018-08-18 ls
+ 1570  2018-08-18 cd /home/
+ 1571  2018-08-18 ls
+ 1572  2018-08-18 cd biswas/packages/node-v8.11.4/
+ 1573  2018-08-18 ls
+ 1574  2018-08-18 cp node /usr/local
+ 1575  2018-08-18 sudo cp node /usr/local
+ 1576  2018-08-18 node
+ 1577  2018-08-18 cd /usr/local/bin
+ 1578  2018-08-18 cd /biswas/packages/node-v8.11.4/
+ 1579  2018-08-18 cd /home/biswas/packages/node-v8.11.4/
+ 1580  2018-08-18 sudo cp node /usr/local/bin
+ 1581  2018-08-18 node
+ 1582  2018-08-18 cd /usr/local/bin
+ 1583  2018-08-18 ./node
+ 1584  2018-08-18 echo $PATH
+ 1585  2018-08-18 export PATH=/home/biswas/anaconda3/bin:/home/biswas/.local/share/umake/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/home/biswas/packages/node-v8.11.4/bin:/home/biswas/Android/Sdk/tools:/home/biswas/Android/Sdk/platform-tools
+ 1586  2018-08-18 node
+ 1587  2018-08-18 cd /home/biswas/.nvm/versions/node/v7.2.1/bin
+ 1588  2018-08-18 cd
+ 1589  2018-08-18 ls
+ 1590  2018-08-18 echo $PATH
+ 1591  2018-08-18 cd .nvm
+ 1592  2018-08-18 ls
+ 1593  2018-08-18 nvm -v
+ 1594  2018-08-18 nvm -version
+ 1595  2018-08-18 npm -v
+ 1596  2018-08-18 cd /home/biswas/packages/
+ 1597  2018-08-18 ls
+ 1598  2018-08-18 cd node-v8.11.4/
+ 1599  2018-08-18 ls
+ 1600  2018-08-18 node
+ 1601  2018-08-18 echo $PATH
+ 1602  2018-08-18 vi ~/.bashrc
+ 1603  2018-08-18 vi ~/.profile
+ 1604  2018-08-18 grep /home/biswas/.nvm/versions/node/v7.2.1/bin
+ 1605  2018-08-18 cd ~/.nvm
+ 1606  2018-08-18 ls
+ 1607  2018-08-18 cd versions/
+ 1608  2018-08-18 ls
+ 1609  2018-08-18 cd node/
+ 1610  2018-08-18 ls
+ 1611  2018-08-18 cd v7.2.1/
+ 1612  2018-08-18 ls
+ 1613  2018-08-18 nvm use 8.9
+ 1614  2018-08-18 nvm use 7.2
+ 1615  2018-08-18 nvm install 8.11.4
+ 1616  2018-08-18 node
+ 1617  2018-08-18 cd ..
+ 1618  2018-08-18 ls
+ 1619  2018-08-18 nvm use 8.11
+ 1620  2018-08-18 sudo nvm use 8.11
+ 1621  2018-08-18 nvm use 8.11
+ 1622  2018-08-18 ls
+ 1623  2018-08-18 nvm use 7.2
+ 1624  2018-08-18 nvm use 8
+ 1625  2018-08-18 sudo apt get update npm
+ 1626  2018-08-18 sudo apt get npm
+ 1627  2018-08-18 npm -v
+ 1628  2018-08-18 npm install -g npm@latest
+ 1629  2018-08-18 npm -v
+ 1630  2018-08-18 nvm -v
+ 1631  2018-08-18 nvm --version
+ 1632  2018-08-18 npm -v
+ 1633  2018-08-18 node -v
+ 1634  2018-08-18 echo $PATH
+ 1635  2018-08-18 cd
+ 1636  2018-08-18 node
+ 1637  2018-08-18 nvm use 8
+ 1638  2018-08-18 node
+ 1639  2018-08-18 reset
+ 1640  2018-08-18 node -v
+ 1641  2018-08-18 cd
+ 1642  2018-08-18 cd packages/
+ 1643  2018-08-18 ls
+ 1644  2018-08-18 history | grep now
+ 1645  2018-08-18 history | grep tar
+ 1646  2018-08-18 ls
+ 1647  2018-08-18 tar xvzf now-linux.gz
+ 1648  2018-08-18 npm install -g now
+ 1649  2018-08-18 now
+ 1650  2018-08-18 date %F
+ 1651  2018-08-18 date -d
+ 1652  2018-08-18 date --hrlp
+ 1653  2018-08-18 date --help
+ 1654  2018-08-18 man date
+ 1655  2018-08-18 date '%F'
+ 1656  2018-08-18 man date
+ 1657  2018-08-18 date +%F
+ 1658  2018-08-18 history
+ 1659  2018-08-18 cd ~/bin
+ 1660  2018-08-18 vi save_knowledge 
+ 1661  2018-08-18 ll
+ 1662  2018-08-18 rm *.log
+ 1663  2018-08-18 ls
+ 1664  2018-08-18 vi save_knowledge 
+ 1665  2018-08-18 pwd
+ 1666  2018-08-18 vi ~./bashrc
+ 1667  2018-08-18 vi ~/bashrc
+ 1668  2018-08-18 vi ~./bashrc
+ 1669  2018-08-18 vi ~/.bashrc
+ 1670  2018-08-18 vi ~/.bin
+ 1671  2018-08-18 vi ~/.bashrc
+ 1672  2018-08-18 pwd
+ 1673  2018-08-18 vi ~/.bashrc
+ 1674  2018-08-18 now
+ 1675  2018-08-18 NOW()
+ 1676  2018-08-18 date
+ 1677  2018-08-18 history --include-date
+ 1678  2018-08-18 history
+ 1679  2018-08-18 HISTTIMEFORMAT="%d/%m/%y %T "
+ 1680  2018-08-18 history
+ 1681  2018-08-18 HISTTIMEFORMAT="%y/%m/%d"
+ 1682  2018-08-18 history
+ 1683  2018-08-18 HISTTIMEFORMAT="%y/%m/%d "
+ 1684  2018-08-18 history
+ 1685  2018-08-18 date
+ 1686  2018-08-18 HISTTIMEFORMAT="%y-%m-%d "
+ 1687  2018-08-18 history
+ 1688  2018-08-18 HISTTIMEFORMAT="%Y-%m-%d "
+ 1689  2018-08-18 history
+ 1690  2018-08-18 cd ~./bin
+ 1691  2018-08-18 cd ~/bin
+ 1692  2018-08-18 cd ~/.bin
+ 1693  2018-08-18 cd ~/bin
+ 1694  2018-08-18 mkdir ~/bin
+ 1695  2018-08-18 cd ~/bin
+ 1696  2018-08-18 cd ~./bin
+ 1697  2018-08-18 mkdir ~./bin
+ 1698  2018-08-18 pwd
+ 1699  2018-08-18 cd
+ 1700  2018-08-18 ls
+ 1701  2018-08-18 cd bin/
+ 1702  2018-08-18 ls
+ 1703  2018-08-18 vi save_knowledge
+ 1704  2018-08-18 date
+ 1705  2018-08-18 date+%F
+ 1706  2018-08-18 date +%F
+ 1707  2018-08-18 history | grep date +%F
+ 1708  2018-08-18 history | grep | date +%F
+ 1709  2018-08-18 history | grep $(date +%F)
+ 1710  2018-08-18 history | grep -o $(date +%F)\
+ 1711  2018-08-18 history | grep -o $(date +%F)
+ 1712  2018-08-18 history | grep -O $(date +%F)
+ 1713  2018-08-18 history | grep -w $(date +%F)
+ 1714  2018-08-18 history | grep $(date +%F)
+ 1715  2018-08-18 history | grep $(date +%F) > knowledge_$(echo date + %F).log
+ 1716  2018-08-18 history | echo $(date +%F) > grep $(date +%F)
+ 1717  2018-08-18 history | echo $(date +%F) | grep $(date +%F)
+ 1718  2018-08-18 history | grep < echo $(date +%F)
+ 1719  2018-08-18 history | grep | echo $(date +%F)
+ 1720  2018-08-18 history | grep $(date +%F)
+ 1721  2018-08-18 history | grep $(date +%F) > file
+ 1722  2018-08-18 cat file
+ 1723  2018-08-18 history | grep $(date +%F) > $(date +%F)
+ 1724  2018-08-18 ll
+ 1725  2018-08-18 rm file
+ 1726  2018-08-18 history | grep $(date +%F) > $(date +%F).log
+ 1727  2018-08-18 ls
+ 1728  2018-08-18 history | grep $(date +%F) > $(date +%F)".log"
+ 1729  2018-08-18 ls
+ 1730  2018-08-18 history | grep $(date +%F) > $($(date +%F).log)
+ 1731  2018-08-18 history | grep $(date +%F) > $(date +%F)
+ 1732  2018-08-18 ls
+ 1733  2018-08-18 history | grep $(date +%F) > $(date +%F)
+ 1734  2018-08-18 ls
+ 1735  2018-08-18 history | grep $(date +%F) > $(date +%F)
+ 1736  2018-08-18 ll
+ 1737  2018-08-18 ls
+ 1738  2018-08-18 ll
+ 1739  2018-08-18 rm 2018-08-18 2018-08-18.log .save_knowledge.swp
+ 1740  2018-08-18 ls
+ 1741  2018-08-18 rm grep
+ 1742  2018-08-18 ls
+ 1743  2018-08-18 history | grep $(date +%F) > $(date +%F).log
+ 1744  2018-08-18 ll
+ 1745  2018-08-18 cat2018-08-18.log
+ 1746  2018-08-18 cat 2018-08-18.log
+ 1747  2018-08-18 cd
+ 1748  2018-08-18 cd workspace/audio_tuner/
+ 1749  2018-08-18 ls
+ 1750  2018-08-18 git branch
+ 1751  2018-08-18 echo $(git branch)
+ 1752  2018-08-18 ls
+ 1753  2018-08-18 git branch  --no-color
+ 1754  2018-08-18 git branch  --no-color  | grep -E '^\*' 
+ 1755  2018-08-18 git branch --no-color | grep -E '^\*' | awk '{print $2}'         || echo "default_value"
+ 1756  2018-08-18 git branch --no-color | grep -E '^\*' | awk '{print $2}' || echo "default_value"
+ 1757  2018-08-18 git branch --no-color | grep -E '^\*' | awk '{print $2}'
+ 1758  2018-08-18 ls
+ 1759  2018-08-18 chmod ~/bin/save_knowledge u+x
+ 1760  2018-08-18 chmod ~/bin/save_knowledge +x
+ 1761  2018-08-18 chmod u+x ~/bin/save_knowledge
+ 1762  2018-08-18 save_knowledge
+ 1763  2018-08-18 echo $PATH
+ 1764  2018-08-18 save_knowledge
+ 1765  2018-08-18 cat /home/biswas/.config
+ 1766  2018-08-18 cd /home/biswas/.config
+ 1767  2018-08-18 ls
+ 1768  2018-08-18 cd
+ 1769  2018-08-18 npm --version
+ 1770  2018-08-18 node -v
+ 1771  2018-08-18 nvm -v
+ 1772  2018-08-18 nvm -version
+ 1773  2018-08-18 reset
+ 1774  2018-08-18 npm -v
+ 1775  2018-08-18 node -v
+ 1776  2018-08-18 nvm --version
+ 1777  2018-08-18 reset
+ 1778  2018-08-18 cd workspace/audio_tuner/
+ 1779  2018-08-18 git remote -v
+ 1780  2018-08-18 vue create audio_tuner_ui
+ 1781  2018-08-18 npm install -g @vue/cli
+ 1782  2018-08-18 sudo chown -R $USER:$(id -gn $USER) /home/biswas/.config
+ 1783  2018-08-18 vue create audio_tuner_ui
+ 1784  2018-08-18 ls
+ 1785  2018-08-18 git diff
+ 1786  2018-08-18 cd audio_tuner_ui/
+ 1787  2018-08-18 tree
+ 1788  2018-08-18 sudo apt-get install tree
+ 1789  2018-08-18 ls
+ 1790  2018-08-18 git status
+ 1791  2018-08-18 cd ..
+ 1792  2018-08-18 git status
+ 1793  2018-08-18 ls
+ 1794  2018-08-18 cd audio_tuner_ui/
+ 1795  2018-08-18 ls
+ 1796  2018-08-18 tree
+ 1797  2018-08-18 ls
+ 1798  2018-08-18 ls ../
+ 1799  2018-08-18 vue-cli -v
+ 1800  2018-08-18 vue-cli
+ 1801  2018-08-18 vue -v
+ 1802  2018-08-18 vue -V
+ 1803  2018-08-18 yarn serve
+ 1804  2018-08-18 now
+ 1805  2018-08-18 ls
+ 1806  2018-08-18 now
+ 1807  2018-08-18 vi package.json
+ 1808  2018-08-18 now
+ 1809  2018-08-18 vi package.json
+ 1810  2018-08-18 now
+ 1811  2018-08-18 npm install -g serve
+ 1812  2018-08-18 serve -v dist
+ 1813  2018-08-18 vi package.json
+ 1814  2018-08-18 vue serve
+ 1815  2018-08-18 npm install -g @vue/cli-service-global
+ 1816  2018-08-18 vue serve
+ 1817  2018-08-18 ls
+ 1818  2018-08-18 yarn serve
+ 1819  2018-08-18 git status
+ 1820  2018-08-18 cat package
+ 1821  2018-08-18 cat package.json 
+ 1822  2018-08-18 vue-cli-service build --target lib --name ff src/main.j
+ 1823  2018-08-18 vue build --target lib --name ff src/main.j
+ 1824  2018-08-18 vue build --target lib --name ff src/main.js
+ 1825  2018-08-18 vue serve
+ 1826  2018-08-18 vue serve --target lib --name ff src/main.js
+ 1827  2018-08-18 vue serve --o lib --name ff src/main.js
+ 1828  2018-08-18 vue serve --o
+ 1829  2018-08-18 vue serve -o
+ 1830  2018-08-18 vue serve -o lib --name ff src/main.js
+ 1831  2018-08-18 vue ui
+ 1832  2018-08-18 cd workspace/audio_tuner/
+ 1833  2018-08-18 ls
+ 1834  2018-08-18 git branch
+ 1835  2018-08-18 save_knowledge
+ 1836  2018-08-18 ls
+ 1837  2018-08-18 cd knowledge/
+ 1838  2018-08-18 ls
+ 1839  2018-08-18 cd ..
+ 1840  2018-08-18 vi ~/bin/save_knowledge 
+ 1841  2018-08-18 save_knowledge
